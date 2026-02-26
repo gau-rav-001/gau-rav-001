@@ -14,7 +14,6 @@
 
 - 🎓 Engineering Student  
 - 💻 Full Stack Developer  
-- 📊 MATLAB Programmer  
 - 🚀 Building Real World Projects  
 - 🎯 Goal: Software Engineer  
 
