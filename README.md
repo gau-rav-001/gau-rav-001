@@ -1,38 +1,38 @@
-<!-- Animated Banner -->
+<!--<!-- Premium Animated Banner -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F72D,100:007CF0&height=200&section=header&text=Gaurav%20Kumbhare&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F72D,100:007CF0&height=220&section=header&text=Gaurav%20Kumbhare&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Engineering%20Student%20|%20Tech%20Enthusiast&descAlignY=60&descSize=18"/>
 </p>
 
-<!-- Animated Typing -->
+<!-- Animated Typing Intro -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Engineering+Student;React+Node+MongoDB+Developer;MATLAB+Programmer;Building+Real+World+Projects"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile;Full+Stack+Developer;React+Node+MongoDB+Developer;MATLAB+Programmer;Building+Real+World+Projects;Open+to+Internships+and+Placements"/>
 </p>
 
-<!-- Animated Skills Badges -->
+<!-- Tech Stack Icons -->
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,js,python,cpp,java,matlab,git,github,vscode&perline=6"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,js,python,cpp,java,matlab,git,github,vscode,html,css&perline=7"/>
 </p>
 
-<!-- Visitor Counter -->
+<!-- Profile Views Counter -->
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=gau-rav-001&label=Profile%20Views&color=00F72D&style=for-the-badge"/>
 </p>
 
-<!-- Animated Divider -->
+<!-- Social Links -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00F72D&height=100&section=footer"/>
-</p>
-<h1 align="center">Hi 👋, I'm Gaurav Kumbhare</h1>
-
-<h3 align="center">
-🚀 Full Stack Developer | 💻 Engineering Student | 🤖 Tech Enthusiast
-</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;React+Node+MongoDB+Developer;MATLAB+Programmer;Building+Real+World+Projects" />
+<a href="https://github.com/gau-rav-001">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+<a href="mailto:kumbharegaurav100@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+<a href="https://linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 </p>
 
 ---
+
 
 # 🧑‍💻 About Me
 
