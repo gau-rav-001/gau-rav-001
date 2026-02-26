@@ -1,3 +1,27 @@
+<!-- Animated Banner -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F72D,100:007CF0&height=200&section=header&text=Gaurav%20Kumbhare&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<!-- Animated Typing -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Engineering+Student;React+Node+MongoDB+Developer;MATLAB+Programmer;Building+Real+World+Projects"/>
+</p>
+
+<!-- Animated Skills Badges -->
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,js,python,cpp,java,matlab,git,github,vscode&perline=6"/>
+</p>
+
+<!-- Visitor Counter -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=gau-rav-001&label=Profile%20Views&color=00F72D&style=for-the-badge"/>
+</p>
+
+<!-- Animated Divider -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00F72D&height=100&section=footer"/>
+</p>
 <h1 align="center">Hi 👋, I'm Gaurav Kumbhare</h1>
 
 <h3 align="center">
