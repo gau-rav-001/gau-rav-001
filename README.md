@@ -1,15 +1,9 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     ANIMATED HEADER                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00FF41,100:007CF0&height=280&section=header&text=Gaurav%20Kumbhare&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=🚀%20Full%20Stack%20Developer%20%7C%20💻%20Engineering%20Student%20%7C%20🤖%20Tech%20Enthusiast&descAlignY=63&descSize=18&stroke=00FF41&strokeWidth=2"/>
 
-<!-- ANIMATED TYPING -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=900&color=00FF41&center=true&vCenter=true&width=800&height=55&lines=👋+Welcome+to+my+GitHub+Profile!;🚀+Full+Stack+Developer;⚛️+React+%7C+Node.js+%7C+MongoDB;🧮+MATLAB+%26+Python+Enthusiast;🏗️+Building+Real+World+Projects;🎯+Goal%3A+Software+Engineer+%40+Top+Tech;💡+Open+to+Internships+%26+Placements" alt="Typing SVG"/>
 
-<!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 </div>
@@ -153,18 +147,12 @@ const gaurav = {
 
 ## 🤖 AI / Machine Learning / Data Science
 
-<!-- skillicons for TensorFlow, PyTorch, OpenCV -->
+<!-- skillicons: TensorFlow, PyTorch, OpenCV -->
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=6&theme=dark"/>
 
-<!-- Custom logos for NumPy, Pandas, Scikit-Learn, MATLAB (not on skillicons) -->
 <br/>
-<img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/-MATLAB-FF6600?style=for-the-badge&logo=mathworks&logoColor=white"/>
 
-<br/><br/>
-
+<!-- badges only for tools NOT available on skillicons -->
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -200,14 +188,10 @@ const gaurav = {
 
 ## ⚡ DevOps
 
-<!-- skillicons for GitHub Actions & Docker -->
+<!-- skillicons: GitHub Actions, Docker -->
 <img src="https://skillicons.dev/icons?i=githubactions,docker&perline=6&theme=dark"/>
 
-<!-- Custom logo badge for Nginx (not on skillicons) -->
 <br/>
-<img src="https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-
-<br/><br/>
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -221,19 +205,13 @@ const gaurav = {
 
 ## 🎨 Design Tools
 
-<!-- skillicons for Figma -->
+<!-- skillicons: Figma -->
 <img src="https://skillicons.dev/icons?i=figma&theme=dark"/>
 
-<!-- Custom logo badges for Canva & Adobe XD (not on skillicons) -->
 <br/>
-<img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white"/>
-
-<br/><br/>
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
 
 </div>
 
@@ -243,15 +221,10 @@ const gaurav = {
 
 ## 🔩 Engineering & Embedded Systems
 
-<!-- skillicons for Arduino & C++ -->
+<!-- skillicons: Arduino, C++ -->
 <img src="https://skillicons.dev/icons?i=arduino,cpp&perline=6&theme=dark"/>
 
-<!-- Custom logo badges for MATLAB & Raspberry Pi (not on skillicons) -->
 <br/>
-<img src="https://img.shields.io/badge/-MATLAB_Simulink-FF6600?style=for-the-badge&logo=mathworks&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-
-<br/><br/>
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white)
