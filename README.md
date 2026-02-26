@@ -22,13 +22,13 @@
 
 ```js
 const gaurav = {
-  🎓 education   : "Engineering Student",
-  💻 role        : "Full Stack Developer",
-  📊 skills      : "MATLAB Programmer",
-  🚀 current     : "Building Real World Projects",
-  🎯 goal        : "Software Engineer @ Top Tech",
-  📫 email       : "kumbharegaurav100@gmail.com",
-  ⚡ funFact     : "I love building real world solutions 🔥"
+  education : "Engineering Student",
+  role      : "Full Stack Developer",
+  skills    : "MATLAB Programmer",
+  current   : "Building Real World Projects",
+  goal      : "Software Engineer @ Top Tech",
+  email     : "kumbharegaurav100@gmail.com",
+  funFact   : "I love building real world solutions!"
 };
 ```
 
@@ -64,6 +64,8 @@ const gaurav = {
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,php&perline=6&theme=dark"/>
 
+<br/>
+
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -79,13 +81,15 @@ const gaurav = {
 
 ## 🌐 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&perline=6&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&perline=6&theme=dark"/>
+
+<br/>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 </div>
 
@@ -95,12 +99,13 @@ const gaurav = {
 
 ## ⚙️ Backend Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,firebase,fastapi,php&perline=6&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,php&perline=6&theme=dark"/>
+
+<br/>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 </div>
@@ -113,11 +118,13 @@ const gaurav = {
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,firebase&perline=6&theme=dark"/>
 
+<br/>
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase_DB-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 </div>
 
@@ -129,9 +136,11 @@ const gaurav = {
 
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,netlify&perline=6&theme=dark"/>
 
+<br/>
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
@@ -143,7 +152,9 @@ const gaurav = {
 
 ## 🤖 AI / Machine Learning / Data Science
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&perline=6&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=6&theme=dark"/>
+
+<br/>
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -161,17 +172,17 @@ const gaurav = {
 
 ## 🛠️ Tools & Software
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,linux,windows,arduino&perline=8&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,figma,linux,windows&perline=8&theme=dark"/>
+
+<br/>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 </div>
 
@@ -181,10 +192,12 @@ const gaurav = {
 
 ## ⚡ DevOps
 
-<img src="https://skillicons.dev/icons?i=githubactions,linux&perline=6&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=githubactions,docker&perline=6&theme=dark"/>
 
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<br/>
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </div>
 
@@ -195,6 +208,8 @@ const gaurav = {
 ## 🎨 Design Tools
 
 <img src="https://skillicons.dev/icons?i=figma&theme=dark"/>
+
+<br/>
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
@@ -207,12 +222,13 @@ const gaurav = {
 
 ## 🔩 Engineering & Embedded Systems
 
-<img src="https://skillicons.dev/icons?i=arduino,cpp,python&perline=6&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=arduino&perline=6&theme=dark"/>
+
+<br/>
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-FF6600?style=flat-square&logo=mathworks&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=flat-square&logo=c&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB_Simulink-FF6600?style=flat-square&logo=mathworks&logoColor=white)
 
 </div>
 
@@ -258,14 +274,31 @@ const gaurav = {
 
 # 🐍 Contribution Snake
 
+<!-- 
+  ┌─────────────────────────────────────────────────────────────┐
+  │  Snake is generated via GitHub Actions into `output` branch  │
+  │  See setup instructions at the bottom of this file ↓         │
+  └─────────────────────────────────────────────────────────────┘
+  
+  The <picture> tag renders:
+  • Dark SVG  → on dark mode GitHub
+  • Light SVG → on light mode GitHub
+-->
+
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/gau-rav-001/gau-rav-001/blob/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://github.com/gau-rav-001/gau-rav-001/blob/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution Snake Animation"
-    src="https://github.com/gau-rav-001/gau-rav-001/blob/output/github-contribution-grid-snake-dark.svg"
-    width="98%"/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/gau-rav-001/gau-rav-001/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/gau-rav-001/gau-rav-001/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="🐍 Gaurav's Contribution Snake"
+    src="https://raw.githubusercontent.com/gau-rav-001/gau-rav-001/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+  />
 </picture>
 
 </div>
@@ -304,7 +337,6 @@ const gaurav = {
 
 ⚡ *"Code. Build. Iterate. Ship."* ⚡
 
-<!-- ANIMATED FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00FF41&height=120&section=footer&animation=twinkling"/>
 
 </div>
@@ -312,13 +344,15 @@ const gaurav = {
 ---
 
 <!--
-════════════════════════════════════════════════════════════════
-🐍  SNAKE ANIMATION — ONE-TIME GITHUB ACTIONS SETUP
-════════════════════════════════════════════════════════════════
+╔══════════════════════════════════════════════════════════════════╗
+║          🐍 SNAKE ANIMATION SETUP — COPY THIS WORKFLOW           ║
+╚══════════════════════════════════════════════════════════════════╝
 
-📁 Create: .github/workflows/snake.yml  (copy content below)
+STEP 1: In your profile repo (gau-rav-001/gau-rav-001), create:
+        .github/workflows/snake.yml
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+STEP 2: Paste the following content into snake.yml:
+────────────────────────────────────────────────────────────────────
 
 name: Generate Snake Animation
 
@@ -354,17 +388,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-✅ After saving snake.yml:
-   1. Go to repo → Actions tab
-   2. Click "Generate Snake Animation"
-   3. Click "Run workflow" → Run manually once
-   4. SVGs appear in `output` branch automatically
-   5. Auto-updates every 12 hours forever 🐍
-
-The <picture> tag shows dark SVG on dark mode,
-light SVG on light mode — fully adaptive! ✨
-
-════════════════════════════════════════════════════════════════
+────────────────────────────────────────────────────────────────────
+STEP 3: Commit snake.yml → Go to Actions tab → Run workflow manually
+STEP 4: Snake SVGs appear in `output` branch → live on your README ✅
+        Auto-regenerates every 12 hours 🔄
+────────────────────────────────────────────────────────────────────
 -->
