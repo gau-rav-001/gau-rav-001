@@ -153,9 +153,17 @@ const gaurav = {
 
 ## 🤖 AI / Machine Learning / Data Science
 
+<!-- skillicons for TensorFlow, PyTorch, OpenCV -->
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=6&theme=dark"/>
 
+<!-- Custom logos for NumPy, Pandas, Scikit-Learn, MATLAB (not on skillicons) -->
 <br/>
+<img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/-MATLAB-FF6600?style=for-the-badge&logo=mathworks&logoColor=white"/>
+
+<br/><br/>
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -192,12 +200,18 @@ const gaurav = {
 
 ## ⚡ DevOps
 
+<!-- skillicons for GitHub Actions & Docker -->
 <img src="https://skillicons.dev/icons?i=githubactions,docker&perline=6&theme=dark"/>
 
+<!-- Custom logo badge for Nginx (not on skillicons) -->
 <br/>
+<img src="https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+
+<br/><br/>
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 </div>
 
@@ -207,12 +221,19 @@ const gaurav = {
 
 ## 🎨 Design Tools
 
+<!-- skillicons for Figma -->
 <img src="https://skillicons.dev/icons?i=figma&theme=dark"/>
 
+<!-- Custom logo badges for Canva & Adobe XD (not on skillicons) -->
 <br/>
+<img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white"/>
+
+<br/><br/>
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
 
 </div>
 
@@ -222,13 +243,20 @@ const gaurav = {
 
 ## 🔩 Engineering & Embedded Systems
 
+<!-- skillicons for Arduino & C++ -->
 <img src="https://skillicons.dev/icons?i=arduino,cpp&perline=6&theme=dark"/>
 
+<!-- Custom logo badges for MATLAB & Raspberry Pi (not on skillicons) -->
 <br/>
+<img src="https://img.shields.io/badge/-MATLAB_Simulink-FF6600?style=for-the-badge&logo=mathworks&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+
+<br/><br/>
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![MATLAB Simulink](https://img.shields.io/badge/MATLAB_Simulink-FF6600?style=for-the-badge&logo=mathworks&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 </div>
 
