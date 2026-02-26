@@ -18,7 +18,6 @@
 const gaurav = {
   education : "Engineering Student",
   role      : "Full Stack Developer",
-  skills    : "MATLAB Programmer",
   current   : "Building Real World Projects",
   goal      : "Software Engineer @ Top Tech",
   email     : "kumbharegaurav100@gmail.com",
