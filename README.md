@@ -1,15 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom\&color=0:0d1117,50:00FF41,100:007CF0\&height=300\&section=header\&text=Gaurav%20Kumbhare\&fontSize=70\&fontColor=ffffff\&animation=fadeIn\&fontAlignY=42\&desc=🚀%20Full%20Stack%20Developer%20%7C%20💻%20Engineering%20Student%20%7C%20🤖%20Tech%20Enthusiast\&descAlignY=63\&descSize=18\&stroke=00FF41\&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060d00,50:0f1a00,100:060d00&height=200&section=header&text=Gaurav%20Kumbhare&fontSize=52&fontColor=FF9A00&animation=fadeIn&fontAlignY=55&font=Century%20Gothic" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect\&color=0:0d1117,100:0d1117\&height=55\&text=👋%20Welcome%20|%20🚀%20Full%20Stack%20Dev%20|%20⚛️%20React%20·%20Node%20·%20MongoDB%20|%20🤖%20AI%2FML%20|%20🔌%20Embedded%20Systems\&fontSize=16\&fontColor=00FF41\&animation=twinkling\&fontAlignY=55" width="100%"/>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Century+Gothic&weight=300&size=18&duration=2800&pause=1000&color=A8FF00&center=true&vCenter=true&width=750&height=40&lines=🚀+Full+Stack+Developer+%7C+💻+Engineering+Student+%7C+🤖+Tech+Enthusiast" alt="Role"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Century+Gothic&weight=300&size=16&duration=2500&pause=900&color=FF9A00&center=true&vCenter=true&width=800&height=36&lines=⚛️+React+%7C+Node.js+%7C+MongoDB;🧮+MATLAB+%26+Python+Enthusiast;🏗️+Building+Real+World+Projects;🎯+Goal%3A+Software+Engineer+%40+Top+Tech;💡+Open+to+Internships+%26+Placements" alt="Typing SVG"/>
+
+<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 </div>
 
 ---
-
 ## 🧑‍💻 About Me
 
 <div align="center">
