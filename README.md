@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00FF41,100:007CF0&height=300&section=header&text=Gaurav%20Kumbhare&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=🚀%20Full%20Stack%20Developer%20%7C%20💻%20Engineering%20Student%20%7C%20🤖%20Tech%20Enthusiast&descAlignY=63&descSize=18&stroke=00FF41&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,40:1a0000,100:0d0d0d&height=300&section=header&text=Gaurav%20Kumbhare&fontSize=70&fontColor=FF4500&animation=fadeIn&fontAlignY=42&desc=🚀%20Full%20Stack%20Developer%20%7C%20💻%20Engineering%20Student%20%7C%20🤖%20Tech%20Enthusiast&descAlignY=63&descSize=18&descColor=FF8C42&stroke=FF4500&strokeWidth=3" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=55&text=👋%20Welcome%20|%20🚀%20Full%20Stack%20Dev%20|%20⚛️%20React%20·%20Node%20·%20MongoDB%20|%20🤖%20AI%2FML%20|%20🔌%20Embedded%20Systems&fontSize=16&fontColor=00FF41&animation=twinkling&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:0d0d0d&height=55&text=👋%20Welcome%20|%20🚀%20Full%20Stack%20Dev%20|%20⚛️%20React%20·%20Node%20·%20MongoDB%20|%20🤖%20AI%2FML%20|%20🔌%20Embedded%20Systems&fontSize=16&fontColor=FF8C42&animation=twinkling&fontAlignY=55" width="100%"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
