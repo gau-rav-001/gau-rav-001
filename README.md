@@ -37,11 +37,9 @@ const gaurav = {
   role      : "Full Stack Developer",
   stack     : ["React", "Node.js", "MongoDB", "Python"],
   AI_ML     : ["TensorFlow", "PyTorch", "OpenCV"],
-  hardware  : ["Arduino", "Raspberry Pi", "Embedded C"],
   cloud     : ["AWS", "Azure", "GCP"],
   goal      : "Software Engineer @ Top Tech",
   email     : "kumbharegaurav100@gmail.com",
-  funFact   : "I bridge hardware & software! 🔌⚡"
 };
 ```
 
